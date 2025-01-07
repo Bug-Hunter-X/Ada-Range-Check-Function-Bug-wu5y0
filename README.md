@@ -1,0 +1,2 @@
+# Ada Range Check Function Bug
+This repository demonstrates a potential off-by-one error in an Ada function designed to check if a number is within a specific range (10 to 20 inclusive).  The `Check_Range` function in `bug.ada` contains this error. The corrected version is shown in `bugSolution.ada`.
